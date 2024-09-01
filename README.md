@@ -16,9 +16,9 @@ SAChecker — это утилита, автоматизирующая прове
 
 ## Контакты & авторство
 
-Автор: `kichiro` 
-Youtube: https://www.youtube.com/@kichiro111
-VK: https://vk.com/aaaaaa111119
+- Автор: `kichiro`
+- Youtube: https://www.youtube.com/@kichiro111
+- VK: https://vk.com/aaaaaa111119
 
 ## Благодарности
 
